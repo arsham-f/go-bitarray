@@ -1,9 +1,7 @@
 package bitarray
 
 import (
-	"fmt"
 	"math"
-	"runtime"
 )
 
 var (
